@@ -149,7 +149,7 @@
 						<div class="span8">
 							<!-- <h2>&nbsp;</h2> -->
 							<p>My name is Brandon Sachs, and I'm a software engineer living in Broward County, Florida.</p>
-							<p>I work mainly in PHP and Javascript/HTML5/CSS3 (Less is great), but can be found using C# and Python occasionally.</p>
+							<p>I work mainly in PHP and JavaScript, but can be found using C# and Python occasionally.</p>
 						</div>
 					</div>
 
@@ -272,7 +272,7 @@
 											<div class="span8" style="text-align: left;">
 												mobileAlert is a jQuery plugin for use with the jQuery Mobile framework. It is an "alert" dialog plugin, and to my knowledge, was the first plugin of it's type made specifically for jQuery Mobile.
 												<br><br>
-												<span class="written-in">Written in Javascript/jQuery, using CSS3 keyframes for </span>animation.
+												<span class="written-in">Written in JavaScript/jQuery, using CSS3 keyframes for </span>animation.
 												<br><br>
 												<a class="btn" href="https://github.com/zephster/jquery.mobile.alert"><i class="icon-list-alt"></i> Github</a>
 											</div>
@@ -291,7 +291,7 @@
 											<div class="span8" style="text-align: left;">
 												Simple Tic Tac Toe game. Consists of 2 parts: the game logic, and the graphics. Uses HTML5 canvas to draw the game board. There's also a fully playable console version. In fact, if you check your console log, you can play right now!
 												<br><br>
-												<span class="written-in">Written in Javascript, HTML5 Canvas</span>
+												<span class="written-in">Written in JavaScript, HTML5 Canvas</span>
 												<br><br>
 												<a class="btn" href="https://github.com/zephster/t3"><i class="icon-list-alt"></i> Github</a>
 											</div>
@@ -384,7 +384,7 @@
 											<div class="span8" style="text-align: left;">
 												stickyBar is a jQuery plugin that adds a fixed-position element to a page when you scroll past a certain, definable area. Most commonly used for navigation elements, usually horizontal.
 												<br><br>
-												<span class="written-in">Written in Javascript/jQuery.</span>
+												<span class="written-in">Written in JavaScript/jQuery.</span>
 												<br><br>
 												<a class="btn" href="http://plugins.jquery.com/project/stickyBar"><i class="icon-download-alt"></i> jQuery Plugins</a>
 												&nbsp;
